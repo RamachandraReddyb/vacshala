@@ -114,7 +114,7 @@ const Home = ({ frontmatter }) => {
                   }`}
                 >
                   <h2 className="font-bold leading-[40px]">{service?.title}</h2>
-                  <p className="mt-4 mb-2">{service?.content}</p>
+                  <p className="mt-4 mb-2">{markdownify(service?.content)}</p>
                   {service.button.enable && (
                     <Link
                       href={service?.button.link}
