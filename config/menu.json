@@ -5,8 +5,12 @@
       "url": "/"
     },
     {
-      "name": "Blog",
-      "url": "/blogs"
+      "name": "About us",
+      "url": "/about"
+    },
+    {
+      "name": "Services",
+      "url": "/services"
     },
     {
       "name": "Pricing",
@@ -65,7 +69,7 @@
         },
         {
           "text": "Terms & Conditions",
-          "url": "#"
+          "url": "/terms"
         }
       ]
     }

@@ -1,8 +1,8 @@
 ---
-title: What you need to know about Photography
+title: "5. Parent Education"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-3.jpg"
-date: 2022-06-02T06:00:00+00:00
+image: "/images/blog-4.jpg"
+date: 2022-08-04T05:00:00Z
 draft: false
 ---
 

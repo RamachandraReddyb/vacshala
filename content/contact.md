@@ -3,10 +3,11 @@ title: "Contact Us"
 layout: "contact"
 draft: false
 info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-  contacts: 
+  title: Visit us!
+  description: "Mon - Fri: 9 AM - 6:30 PM 
+  <br/> Saturday: 9 AM - 1:30 PM"
+  contacts:     
     - "phone: +88 125 256 452"
     - "Mail: [info@Vacshaala.com](mailto:info@Vacshaala.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "Address: Kothanur Village Main Rd, RBI East Layout, JP Nagar 7th Phase, Bengaluru, Karnataka - 560078 (Close to Brigade Millennium)"
 ---
