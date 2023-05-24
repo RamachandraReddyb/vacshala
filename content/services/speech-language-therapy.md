@@ -1,152 +1,35 @@
 ---
-title: 2. Speech Language Therapy
+title: "2. Speech Language Therapy"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-2.jpg"
-date: 2022-05-04T05:00:00Z
+image: "/images/blog-1.jpg"
+date: 2022-04-04T05:00:00Z
 draft: false
 ---
 
-##### Heading example
+#####
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+Speech Language Therapy is a broad term and forms the basis of an Early Intervention Module. Once a child is assessed for a primary disorder ( E.g Autism/ADHD), or lack of it ( in case of Stuttering, Misarticulation etc), the next step is building a customized early intervention program. There are several programs being developed throughout the world for providing focused intervention in particular areas of speech language disorders. Magpie specializes in providing intervention modules on the basis of evidence based programs. Our team is trained in various globally researched programs and seeks to provide holistic communication development for your child. Please check out [international programs](https://www.magpieslp.com/). on which magpie's core fundamentals are built.​
 
-# Heading 1
+In case you are a parent interested in understanding the different types of communication disorders or wanting to know various categories of language delays, we have listed few below. However, Please note that such labeling should be ONLY done by a qualified SLP.
 
-## Heading 2
+A speech disorder refers to a problem with the actual production of sounds. A language disorder refers to a problem understanding or putting words together to communicate ideas.
 
-### Heading 3
+##### Speech Disorders Include:
 
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
----
-
-##### Emphasis
-
-The emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-The combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+- Articulation Disorders/Phonological Disorders: difficulties producing sounds in syllables or saying words incorrectly to the point that listeners can't understand what's being said.
+- Apraxia of Speech: difficulty in motor planning for speech
+- Fluency Disorders: problems such as [stuttering](http://kidshealth.org/en/parents/stutter.html), in which the flow of speech is interrupted by abnormal stoppages, partial-word repetitions ("b-b-boy"), or prolonging sounds and syllables (sssssnake).
+- Resonance or Voice Disorders: Problems with the pitch, volume, or quality of the voice that distract listeners from what's being said.
 
 ---
 
-##### Link
+##### Language Disorders Include:
 
-[I'm an inline-style link](https://www.google.com)
+- Receptive Disorders: difficulties understanding or processing language.
+- Expressive Disorders: difficulty putting words together, limited vocabulary, or inability to use language in a socially appropriate way.
+- Cognitive-Communication Disorders: difficulty with communication skills that involve memory, attention, perception, organization, regulation, and problem solving.
+- Auditory Processing Disorders: Difficulty in processing auditory information in the absence of Hearing Loss.
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+##### Magpie Telly - Our Video Channel
 
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
----
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
----
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
----
-
-##### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
----
-
-##### Code and Syntax Highlighting
-
-This is an `Inline code` sample.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
----
-
-##### Blockquote
-
-> This is a blockquote example.
-
----
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
----
-
-##### Tables
-
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
----
-
-##### Images
-
-![service](/images/service-slide-1.png "service")
-
----
-
-##### Youtube video
-
-<YoutubePlayer id="C0DPdy98e4c" title="YouTube Video" />
+<YoutubePlayer id="m-nxAjo639Q" title="YouTube Video" />
