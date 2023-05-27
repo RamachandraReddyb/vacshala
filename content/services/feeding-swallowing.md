@@ -1,152 +1,49 @@
 ---
 title: "3. Feeding/Swallowing Therapy"
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-4.jpg"
-date: 2022-07-04T05:00:00Z
-draft: false
 ---
 
-##### Heading example
+Families who eat together tend to be healthier and happier. Magpie offers Assessments and Therapy in the area of Feeding/Swallowing difficulties. Please get in touch with us in case you feel that feeding is an area your child needs help with.
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+We conduct assessments in a manner that is sensitive to the family's cultural background, religious beliefs, and preferences for medical treatment. Families are encouraged to bring food and drink common to their household and utensils/implements typically used by the child, typical feeding practices are observed during assessment (e.g., if the child is typically fed sitting on a parent's lap, then this is observed during the assessment).
 
-# Heading 1
+Feeding or Swallowing issues can be due to the following reasons:
 
-## Heading 2
+##### Sensory Issues
 
-### Heading 3
+The Challenge: Sensory-based feeding issues are the underlying factor to most feeding difficulties in children. The combination of food texture, temperature, and taste can be off-putting to kids, and cause frustration. Children usually tend to stick to foods they are familiar with, and soon these foods are the only ones that they will eat.
 
-#### Heading 4
+##### Oral-Motor Issues
 
-##### Heading 5
+The Challenge: Oral motor-based feeding problems can be caused by tone and strength issues. Kids need to achieve good gross-motor coordination and movement in their body before they will achieve sufficient oral-motor skills. However, oral-motor difficulties must be dealt with only after sensory issues have been attended to. In the end, good sensory input will result in good oral motor output.
 
-###### Heading 6
+##### Behavior Issues
 
----
+The Challenge: There are many different behaviors that can affect feeding: the child gets mom’s and dad’s attention when they don’t eat, or eating is one of only a few things they have control of.
 
-##### Emphasis
+##### Medical Issues
 
-The emphasis, aka italics, with _asterisks_ or _underscores_.
+The Challenge: Gastrointestinal, cardiopulmonary and pharmaceutical issues can affect feeding, along with prematurity of birth and visual impairment, when the child simply can’t see what they’re eating.
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+##### Family Issues
 
-The combined emphasis with **asterisks and _underscores_**.
+The Challenge: Family dynamics are one of the hardest feeding difficulties to deal with. Parents and caregivers are the most important and pivotal components in implementing feeding strategies. Many parents tend to feed their kids only foods that the parents enjoy or force feed them or might have unstructured meal times leading to more anxiety for the child.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+We plan the feeding therapy program considering all the above issues and use a combination of approaches to tackle the feeding/swallowing disorder. One of the most commonly used technique is oral placement therapy.
 
----
+##### Oral Placement Therapy (OPT - TalkTools)
 
-##### Link
+Oral Placement Therapy is a form of speech therapy that utilizes a combination of:
 
-[I'm an inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+  1. Auditory Stimulation
+ 2. Visual Stimulation and
+  3. Tactile Stimulation to the mouth to improve speech clarity
 
-[I'm a reference-style link][arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+OPT is a specialized form of Speech Therapy and requires SLPs to undergo **certification** process for implementation. Magpie therapists are certified in OPT (TalkTools Program). Please contact the center directly for an OPT assessment/programs.
 
-[You can use numbers for reference-style link definitions][1]
+OPT is used to improve articulator awareness, placement (dissociation, grading, and direction of movement), stability, and muscle memory; all of these are necessary for the development of speech clarity and feeding.
 
-Or leave it empty and use the [link text itself].
+##### Candidacy for an OPT Program
 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
----
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
----
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
----
-
-##### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
----
-
-##### Code and Syntax Highlighting
-
-This is an `Inline code` sample.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
----
-
-##### Blockquote
-
-> This is a blockquote example.
-
----
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
----
-
-##### Tables
-
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
----
-
-##### Images
-
-![service](/images/service-slide-1.png "service")
-
----
-
-##### Youtube video
-
-<YoutubePlayer id="C0DPdy98e4c" title="YouTube Video" />
+OPT can be used with clients of many ages and ability levels. It can be incorporated into program plans for many types of speech disorders (e.g., dysarthria, apraxia of speech voice disorders, fluency disorders and post CVA clients, as well as clients with mild-to-profound levels of hearing loss) and feeding disorders. Remember, OPT is only a small part of a comprehensive speech and language program and should not be done in isolation. The activities are carefully selected to stimulate the same movements used in the targeted speech production. They can be completed in under 15 minutes and can be used to refocus attention and concentration from a sensory processing perspective.
