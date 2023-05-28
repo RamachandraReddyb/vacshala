@@ -27,6 +27,14 @@ feature:
       label: Read more
       link: /services/speech-language-therapy
 
+  - name: "2.b Speech Therapy"
+    icon: "/images/oop.svg"
+    content: "Once a child is assessed for a primary disorder, the next step is building a customized early intervention program (I.E.P.). Magpie specializes in providing intervention modules on the basis of  evidence based practices and a variety of globally researched programs for a holistic communication development of your child. Each speech therapy session is specially curated to suit the needs of the child and is outcome driven. A client can either choose an In-Person Mode or Online classes. For more information about our online program, check out fleX."
+    button:
+      enable: true
+      label: Read more
+      link: /services/online-speech-therapy
+
   - name: "3. Feeding Therapy"
     icon: "/images/user-clock.svg"
     content: "Feeding therapy is extremely helpful & strongly recommended if your child is having difficulty eating. This is most common with children that have special needs or medical challenges that may make it physically difficult for them. It is important to note that “feeding” is a specialty within a specialty. Therapy often happens on a weekly basis, but can be every other week or once a month during a scheduled block of time. But, depending on the child’s underlying challenges, you may see your child participating in a sensory integration activitiy or completing exercises to strengthen the muscles they need for eating. Our team is certified in multiple levels of oral motor therapy techniques."
