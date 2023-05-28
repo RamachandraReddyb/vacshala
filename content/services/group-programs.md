@@ -1,152 +1,32 @@
 ---
 title: "4. Group Programs"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-4.jpg"
+image: "/images/service-grouping-program-1.webp"
 date: 2022-08-04T05:00:00Z
 draft: false
 ---
 
-##### Heading example
+***Why Social Skills Groups:*** Many of our children with language delays also have trouble with social skills. This may be due to certain conditions that impair social skills, like autism, or it may just be because these children have trouble learning language and social interactions rely heavily on language skills. Whatever the cause, one of the best ways to help improve social skills is through the use of social skills groups.  Doing social skills training in a group setting allows children to practice new skills with their peers instead of just talking about them theoretically.  Practice is crucial for these children to actually be able to use those skills in real life.
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
+Social Pragmatic Skills group programs aim to increase initiation and maintenance of play or conversation based on age-appropriateness. In younger children (2 Years to 6 Years) , we typically focus on cooperative play skills and increasing joint engagement; while in older children (7 Years to 18 Years) focus is on executive-function skills such as planning peer hang-outs, scripting conversations with friends etc.
+​
 
-# Heading 1
+<b>Magpie Speech Therapy</b> offers small groups for children as young as age 2 extending up to 6+ years. In our groups, we use a curriculum developed at Magpie Speech Therapy, concepts from FloorTime in combination with <b>TEACHH, TalkAbility (Hanen Center) , Michelle Garcia Winner M.S., CCC-SLP (Think Social!) and the Zones of Regulation (Leah Kuypers M.A., Ed, OTR/L).</b> We focus on helping children establish self regulation in a group setting first and foremost like sharing space, noticing peers, and imitating them. With this structure in place, children can then more efficiently take in information related to social thinking, feel more available and ready to interact with their peers and assume more independence and responsibility within a social exchange.
 
-## Heading 2
+Children are placed in a group based on their age, development, learning needs, and areas of strength. We try hard to keep groups at these small numbers, and high teacher to student ratio so that we always have time to slow down and focus on process or challenge moments as they naturally occur. We have also found smaller numbers to be important so that the overall noise level is reduced; when
 
-### Heading 3
+Some of our Goals include,
 
-#### Heading 4
 
-##### Heading 5
+- Acceptable Behavior & Compliance in Group
+- Classroom Simulations
+- Cooperative Play
+- Peer Collaboration and Negotiation
+- Controlling Emotional Outbursts
+- Social Rules of various situations like Playground, B'day Parties, Shopping  etc.
+- Whole Body Regulation
+- Critical Thinking 
+- Taking Perspective 
+- Problem Solving 
 
-###### Heading 6
 
----
-
-##### Emphasis
-
-The emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-The combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
----
-
-##### Link
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
----
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
----
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
----
-
-##### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
----
-
-##### Code and Syntax Highlighting
-
-This is an `Inline code` sample.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
----
-
-##### Blockquote
-
-> This is a blockquote example.
-
----
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
----
-
-##### Tables
-
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
----
-
-##### Images
-
-![service](/images/service-slide-1.png "service")
-
----
-
-##### Youtube video
-
-<YoutubePlayer id="C0DPdy98e4c" title="YouTube Video" />
