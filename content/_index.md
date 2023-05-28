@@ -27,13 +27,13 @@ feature:
       label: Read more
       link: /services/speech-language-therapy
 
-  - name: "2.b Speech Therapy"
+  - name: "2.a fleX Online Speech Language Therapy"
     icon: "/images/oop.svg"
-    content: "Once a child is assessed for a primary disorder, the next step is building a customized early intervention program (I.E.P.). Magpie specializes in providing intervention modules on the basis of  evidence based practices and a variety of globally researched programs for a holistic communication development of your child. Each speech therapy session is specially curated to suit the needs of the child and is outcome driven. A client can either choose an In-Person Mode or Online classes. For more information about our online program, check out fleX."
+    content: "Online Intervention is a medium of therapy where the Speech Language Pathologist interacts with the family / client through a virtual platform. It is a combination of both the child learning with the therapist and the parent collaborating with therapist in order to achieve communication beyond the screen in terms of daily routines and interactions. We conduct online sessions on zoom platform, however we believe in being platform independent. If you are not comfortable with zoom, we can move seamlessly into any other platform of your choice."
     button:
       enable: true
       label: Read more
-      link: /services/online-speech-therapy
+      link: /services/flex-online-speech-therapy
 
   - name: "3. Feeding Therapy"
     icon: "/images/user-clock.svg"
